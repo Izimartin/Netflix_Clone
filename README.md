@@ -1,1 +1,2 @@
-# Netflix_Clone
+# netflixclone
+This is a netflix clone project.
